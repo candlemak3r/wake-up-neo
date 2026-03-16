@@ -4,8 +4,8 @@ A Matrix-inspired screen saver for macOS. Falling green half-width katakana and 
 
 ## Install
 
-1. Download the latest `wake-up-neo.saver` from [Releases](https://github.com/candlemak3r/wake-up-neo/releases)
-2. Double-click to install
+1. Download `wake-up-neo.saver.zip` from [Releases](https://github.com/candlemak3r/wake-up-neo/releases)
+2. Unzip and double-click `wake-up-neo.saver` to install
 3. Go to **System Settings > Screen Saver > Screen Saver... > Custom** and select **wake-up-neo**
 
 ## Build from source
